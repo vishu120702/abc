@@ -23,6 +23,6 @@ int main()
     {
         cout << i + i + 2 << endl;
     }
-
+    
     return 0;
 }
