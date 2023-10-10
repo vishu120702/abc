@@ -20,7 +20,7 @@ int main()
     for (int i = b; i > 0; i--)
     {
         cout << a - b;
-        cout << ebdl;
+        cout << endl;
     }
     int g = 8909;
     int sum;
