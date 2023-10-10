@@ -9,5 +9,8 @@ int main()
     cout << ans << endl;
     // afyganrgfcoiauhiefilae
     // arlifuaoisdcaoieufhaoiueshfoiajsd oIEUFHAOIS JDFCAKJFSHEO IUseiuFHoli uHEFiuKJLSdfh ;SI efliuSlIUEFH liuef
+    for(int i=0;i<10;i++){
+        cout<<i;
+    }
     return 0;
 }
