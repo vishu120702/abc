@@ -19,6 +19,10 @@ int main()
         cout << endl;
     }
     int d;
-    
+    for (int i = 0; i < 20000; i++)
+    {
+        cout << i + i + 2 << endl;
+    }
+
     return 0;
 }
