@@ -1,2 +1,1 @@
-# abc
-To resolve doubt 
+# making sure that I can use git hub
