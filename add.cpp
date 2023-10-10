@@ -5,7 +5,7 @@ int main()
 {
     int a = 10;
     int b = 23;
-    int ans = b - a;
+    int ans = a-b;
     cout << ans << endl;
     // afyganrgfcoiauhiefilae
     // arlifuaoisdcaoieufhaoiueshfoiajsd oIEUFHAOIS JDFCAKJFSHEO IUseiuFHoli uHEFiuKJLSdfh ;SI efliuSlIUEFH liuef
