@@ -17,8 +17,12 @@ int main()
     {
         cout << b;
     }
-    for(int i=b;i>0;i--){
-        
+    for (int i = b; i > 0; i--)
+    {
+        cout << a - b;
+        cout << ebdl;
     }
+    int g = 8909;
+    int sum;
     return 0;
 }
