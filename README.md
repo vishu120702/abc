@@ -1,3 +1,3 @@
-# making sure that I can use git hub
+# making sure that I can use git & git hub
 
-here we done with basic commit,push,pull & merge
+here we done with basic commit,push,pull & merge 
