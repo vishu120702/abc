@@ -17,8 +17,5 @@ int main()
     {
         cout << b;
     }
-    for (int i = b; i > 0; i--)
-    {
-    }
     return 0;
 }
