@@ -18,5 +18,7 @@ int main()
         cout << a;
         cout << endl;
     }
+    int d;
+    
     return 0;
 }
